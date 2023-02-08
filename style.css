@@ -1,0 +1,14 @@
+img {
+  width: 180px;
+}
+
+.btn{
+    display: flex;
+    justify-content: center;
+}
+
+button{
+    margin: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+}
